@@ -1,6 +1,7 @@
 -- Active: 1737820929987@@127.0.0.1@3306@photo_gallery
 CREATE DATABASE photo_gallery;
 
+
 USE photo_gallery;
 
 CREATE TABLE photos (
